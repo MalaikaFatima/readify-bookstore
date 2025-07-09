@@ -5,7 +5,7 @@ An online bookstore with full admin and user panels built using HTML, CSS, JavaS
 ---
 
 
- # #Features
+# Features
 
 # User Side
 - Register/Login system
@@ -20,7 +20,7 @@ An online bookstore with full admin and user panels built using HTML, CSS, JavaS
 - Create and manage categories
 - View customer orders
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
